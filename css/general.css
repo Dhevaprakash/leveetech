@@ -1,0 +1,83 @@
+.thala-two {
+  display: flex;
+  padding: 100px;
+  background-color: blue;
+}
+.thala-three {
+  font-size: 58px;
+  font-weight: 500;
+  position: relative;
+  left: 60px;
+  top: 68px;
+}
+.machi-four {
+  padding: 14px;
+  width: 401px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 7px;
+}
+.machi-five {
+  padding: 14px;
+  width: 401px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 7px;
+}
+.machi-six {
+  padding: 14px;
+  width: 401px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 7px;
+}
+.machi-saven {
+  padding: 15px;
+  width: 405px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.machi-eight {
+  width: 159px;
+  padding: 16px;
+  font-size: 19px;
+  font-weight: 600;
+  background: #ff0000bf;
+  border: thin;
+  border-radius: 10px;
+  color: white;
+  letter-spacing: 1px;
+}
+.macha {
+  text-align: center;
+  padding: 17px;
+  width: 170px;
+  background-color: #b3f3f9;
+  font-size: 15px;
+}
+.machi-one {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  border-radius: 10px;
+}
+.mapla {
+  position: relative;
+  left: 137px;
+}
+.machi {
+  padding: 100px;
+  background-color: #c3c9cfab;
+}
+.machaa {
+  text-align: center;
+  padding: 25px;
+  width: 153px;
+  background-color: #b3f3f9;
+  font-size: 15px;
+}
+.macha-one {
+  position: relative;
+  top: 45px;
+}

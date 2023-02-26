@@ -1,0 +1,349 @@
+.collom {
+  display: flex;
+}
+.row-one ul {
+  list-style-type: none;
+  display: flex;
+}
+.row-one ul li a {
+  text-decoration: none;
+  display: flex;
+}
+.collom {
+  display: flex;
+  justify-content: space-evenly;
+}
+.row-one ul li {
+  font-size: 14px;
+  font-weight: 600;
+  padding: 10px;
+}
+.btn {
+  background: linear-gradient(180deg, transparent 54%, rgba(0, 0, 0, 0.3)),
+    radial-gradient(circle farthest-corner at 30% 40%, #296bcc, #0061ff);
+  padding: 15px 30px;
+  border-radius: 0px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  position: relative;
+  overflow: hidden;
+  color: white;
+  width: 200px;
+  font-size: 17px;
+  border-color: #0061ff;
+}
+.continear-one {
+  display: flex;
+
+  justify-content: space-around;
+}
+.row-two ul li a {
+  text-decoration: none;
+}
+.first-img {
+  display: flex;
+  justify-content: space-evenly;
+}
+.footer-img-one {
+  position: relative;
+  bottom: 112px;
+}
+.footer-img-two {
+  position: relative;
+  bottom: 88px;
+}
+h6 {
+  position: relative;
+  top: 267px;
+  left: 164px;
+  font-size: 20px;
+  inline-size: fit-content;
+}
+.row-two {
+  display: flex;
+}
+.collom-one {
+  display: flex;
+}
+.text-alin {
+  text-align: end;
+}
+.class {
+  position: relative;
+  right: 20px;
+}
+.class-class {
+  position: relative;
+  left: 90px;
+}
+.class-two {
+  position: relative;
+  left: 100px;
+  top: 64px;
+}
+.form {
+  position: relative;
+  left: 20px;
+}
+.collom-two {
+  display: flex;
+  justify-content: center;
+}
+.para {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+}
+.email {
+  position: relative;
+  left: 2px;
+  padding: 19px;
+  width: 307px;
+  text-align: center;
+  font-size: 18px;
+}
+.collom-three {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 60px;
+  word-spacing: 20px;
+}
+.row-three h3 {
+  font-size: 19px;
+  font-weight: 800;
+  word-spacing: -3px;
+}
+.row-three {
+  text-align: right;
+  position: relative;
+  left: 0px;
+}
+.footer-img-one {
+  width: 90px;
+}
+.footer-img-two {
+  width: 300px;
+}
+.footer-one {
+  display: flex;
+  justify-content: center;
+  font-size: 16px;
+  position: relative;
+  bottom: 200px;
+  font-weight: 600;
+}
+body {
+  font-family: sans-serif;
+  word-spacing: 0.1px;
+  letter-spacing: 1px;
+}
+.class ul li {
+  padding: 5px;
+}
+.class-class ul li {
+  padding: 5px;
+}
+.class-two li {
+  padding: 5px;
+}
+.vijay-two {
+  display: flex;
+}
+.box {
+  color: blue;
+}
+.markgating-one {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  border-top: 1px solid;
+  border-left: 1px solid;
+  border-bottom: 1px solid;
+  border-right: 1px solid;
+}
+.box-two {
+  position: relative;
+  top: 216px;
+  right: 50px;
+}
+.box-three {
+  text-align: end;
+  position: relative;
+  left: 27px;
+  top: 163px;
+}
+.vijay-three {
+  position: relative;
+  left: 70px;
+}
+.box-one {
+  position: relative;
+  left: 300px;
+  bottom: 40px;
+}
+.box-five {
+  text-align: end;
+  position: relative;
+  bottom: 406px;
+  left: 39px;
+}
+.btn-one {
+  padding: 15px 15px;
+  border-radius: 0px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  position: relative;
+  overflow: hidden;
+  color: rgb(0, 0, 0);
+  width: 200px;
+  font-size: 17px;
+  border-color: #fffb00;
+  background-color: #fffb00;
+}
+.btn-two {
+  background-color: white;
+  padding: 15px 30px;
+  border-radius: 0px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  position: relative;
+  overflow: hidden;
+  color: rgb(2, 2, 2);
+  width: 200px;
+  font-size: 17px;
+  border-color: #f7f8f8;
+}
+.one {
+  padding: 15px;
+  border-right: 1px solid;
+  text-align: center;
+}
+.two {
+  padding: 15px;
+  border-right: 1px solid;
+  text-align: center;
+}
+.three {
+  padding: 15px;
+  border-right: 1px solid;
+  text-align: center;
+}
+.four {
+  padding: 15px;
+  border-right: 1px solid;
+  text-align: center;
+}
+.four {
+  padding: 15px;
+  border-right: 1px solid;
+  text-align: center;
+}
+.five {
+  padding: 15px;
+  border-right: 1px solid;
+  text-align: center;
+}
+.markgating-two {
+  background-color: yellow;
+  padding: 19px;
+  background-color: yellow;
+  width: 226px;
+  text-align: center;
+}
+.btn-three {
+  margin: 0;
+  padding: 15px 50px;
+  border: none;
+  outline: none;
+  background: #1f1f26;
+  color: #fff;
+  font-size: 18px;
+  position: relative;
+  overflow: hidden;
+  display: block;
+  transition: 0.5s ease-ou;
+}
+.bro-three {
+  display: flex;
+}
+.bro-one {
+  display: flex;
+  padding: 10px;
+  background-image: url(http://leveetech.com/wp-content/uploads/2021/08/pencils-eraser.webp);
+}
+.bro-five {
+  position: relative;
+  right: 160px;
+}
+.bro-two {
+  position: relative;
+  left: 60px;
+}
+.bro-four {
+  position: relative;
+  left: 290px;
+  top: 76px;
+}
+.Web-Design {
+  font-size: 35px;
+  font-weight: 800;
+  color: red;
+}
+.Digital-Marketing {
+  font-size: 35px;
+  font-weight: 800;
+  color: #00d0ff;
+}
+.Content-Marketing {
+  font-size: 35px;
+  font-weight: 800;
+  color: orange;
+}
+.Social-Media {
+  font-size: 35px;
+  font-weight: 800;
+  color: green;
+}
+.Creative-Service {
+  font-size: 35px;
+  font-weight: 800;
+  color: #c984fd;
+}
+.best {
+  color: #b65cdb;
+}
+.best-one {
+  font-size: 25px;
+}
+.one-one {
+  font-size: 16px;
+  font-weight: 600;
+}
+.two-two {
+  font-size: 16px;
+  font-weight: 600;
+}
+.three-three {
+  font-size: 16px;
+  font-weight: 600;
+}
+.four-four {
+  font-size: 16px;
+  font-weight: 600;
+}
+.five-five {
+  font-size: 16px;
+  font-weight: 600;
+}
+.six-six {
+  font-size: 16px;
+  font-weight: 600;
+}
+.content {
+  font-size: 40px;
+  font-weight: 600;
+}
+.marketing {
+  font-size: 20px;
+}

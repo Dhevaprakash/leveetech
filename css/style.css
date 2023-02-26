@@ -1,0 +1,78 @@
+.ajith-one {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1045px;
+}
+.ajith-ajith {
+  font-size: 49px;
+  font-weight: 500;
+}
+p {
+  font-size: 16px;
+  word-spacing: 2px;
+}
+.btn {
+  background: linear-gradient(180deg, transparent 54%, rgba(0, 0, 0, 0.3)),
+    radial-gradient(circle farthest-corner at 30% 40%, #296bcc, #0061ff);
+  padding: 15px 30px;
+  border-radius: 0px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  position: relative;
+  overflow: hidden;
+  color: white;
+  width: 200px;
+  font-size: 17px;
+  border-color: #0061ff;
+}
+.img-img {
+  position: relative;
+  left: 138px;
+}
+.ajith-two {
+  position: relative;
+  left: 80px;
+}
+.green-one {
+  display: flex;
+  justify-content: space-between;
+  max-width: 900px;
+}
+.green-two {
+  position: relative;
+  left: 0px;
+}
+.green-three {
+  position: relative;
+  left: 199px;
+}
+.green {
+  padding: 100px;
+}
+.gre {
+  font-size: 17px;
+  font-weight: 600;
+}
+.green {
+  background-color: #1a5482 !important;
+  color: white;
+}
+.blue-three {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1180px;
+}
+.blue-five {
+  text-align: center;
+}
+.blue-four {
+  position: relative;
+  left: 156px;
+}
+.blue-six {
+  box-shadow: 1px 1px 1px 1px;
+  margin: 2px;
+}
+blue-one {
+  background-image: url(https://leveetech.com/wp-content/uploads/2021/08/paper.jpg?id=324);
+}

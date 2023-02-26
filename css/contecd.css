@@ -1,0 +1,61 @@
+.dani {
+  padding: 75px;
+  background-color: #ff6900;
+}
+.dani-one {
+  display: flex;
+  justify-content: center;
+}
+.dani-two {
+  position: relative;
+  bottom: 42px;
+}
+.dani-dev {
+  font-size: 47px;
+  font-weight: 100;
+}
+.abi-deva {
+  display: flex;
+  justify-content: center;
+  max-width: 1331px;
+}
+.abiabi {
+  padding: 50px;
+  width: 265px;
+  height: 331px;
+  text-align: center;
+  box-shadow: 1px 1px 2px 1px;
+  margin: 10px;
+  background-color: white;
+  position: relative;
+  bottom: 70px;
+  border-radius: 15px;
+}
+.deva-deva {
+  display: flex;
+  justify-content: center;
+  max-width: 1332px;
+}
+.abi-abi {
+  padding: 50px;
+  width: 500px;
+  height: 331px;
+  text-align: center;
+  box-shadow: 1px 1px 13px 1px;
+  margin: 10px;
+  background-color: white;
+  position: relative;
+  bottom: 70px;
+  border-radius: 15px;
+}
+.abi {
+  background-color: aliceblue;
+}
+.dev-dev {
+  font-size: 18px;
+  font-weight: 900;
+}
+a {
+  text-decoration: none;
+  color: #fa8653;
+}
